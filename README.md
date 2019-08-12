@@ -18,6 +18,14 @@ Un ***Sistema Empresarial*** es un sistema central de la organización, que gara
 * Permiten ***integracion*** con otras tecnologias.
 * Arquitectura ***multicapa***.
 
+### 3. Investigue y proponga cinco instituciones que requerirían aplicaciones de misión crítica.
+
+* **Institución Financiera.** Que presta servicios a sus clientes relacionados con su dinero quienes solicitan garantia, seguridad y disponibilidad absoluta.
+* **Servicio General de Identificación Personal (SEGIP)** Que garantice la integridad de la los datos de identificacion unica, la unicidad de las personas.
+* **Institucion Educativa.** Manejo de información.
+* **Aerolineas.** Manejo de información las 24 horas.
+* **Telefonia Movil.** Garantiza servicios en cualquier momento y lugar.
+
 ### 4. Explique cuáles son las diferencias entre la escalabilidad horizontal y escalabilidad vertical
 
 La ***escalabilidad vertical***, se refiere a actualizaciones o modernización de componentes existes; en cambio la ***escalabilidad horizantal*** se refiere a aumentar el numero de componentes.
