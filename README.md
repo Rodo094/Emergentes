@@ -21,7 +21,7 @@ Un ***Sistema Empresarial*** es un sistema central de la organización, que gara
 ### 3. Investigue y proponga cinco instituciones que requerirían aplicaciones de misión crítica.
 
 * **Institución Financiera.** Que presta servicios a sus clientes relacionados con su dinero quienes solicitan garantia, seguridad y disponibilidad absoluta.
-* **Servicio General de Identificación Personal (SEGIP)** Que garantice la integridad de la los datos de identificacion unica, la unicidad de las personas.
+* **Servicio General de Identificación Personal (SEGIP).** Que garantice la integridad de la los datos de identificacion unica, la unicidad de las personas.
 * **Institucion Educativa.** Manejo de información.
 * **Aerolineas.** Manejo de información las 24 horas.
 * **Telefonia Movil.** Garantiza servicios en cualquier momento y lugar.
