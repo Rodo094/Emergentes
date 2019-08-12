@@ -32,7 +32,7 @@ La ***escalabilidad vertical***, se refiere a actualizaciones o modernización d
 
 El protocolo HTTP funciona a través de solicitudes y respuestas entre un cliente y un servidor. A una secuencia de estas solicitudes se le conoce como sesión de HTTP.
 
-![ProtocoloHttp](protocolohttp.jpg)
+![ProtocoloHttp](img/protocolohttp.jpg)
 
 ### 7. Explique los elementos importantes de REQUEST en HTTP
 
@@ -48,7 +48,7 @@ El protocolo HTTP funciona a través de solicitudes y respuestas entre un client
 
 ### 9. Describa con un gráfico la arquitectura Java EE
 
-![ArquitecturaJEE](arqjavaee.gif)
+![ArquitecturaJEE](img/arqjavaee.gif)
 
 1. Client tier (Capa Cliente): Componentes que corren en la máquina del cliente.
 2. Web tier (Capa Web): Componentes que corren en un contenedor web.
@@ -119,11 +119,11 @@ diferentes tipos MIME. Es utilizado por JavaMail.
 
 * doGet
 
-![doGet](servlet-1.JPG)
+![doGet](img/servlet-1.JPG)
 
 * doPost
 
-![doGet](servlet-2.JPG)
+![doGet](img/servlet-2.JPG)
 
 **Algunos métodos de HttpServletRequest**
 
@@ -131,11 +131,11 @@ diferentes tipos MIME. Es utilizado por JavaMail.
 * getParameter
 * getRemoteHost
 
-![doGet](request-1.JPG)
+![doGet](img/request-1.JPG)
 
 **Algunos métodos de HttpServletResponse**
 
 * setContentType
 * addDateHeader
 
-![doGet](response-1.JPG)
+![doGet](img/response-1.JPG)
